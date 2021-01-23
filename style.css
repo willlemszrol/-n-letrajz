@@ -1,0 +1,62 @@
+th{
+    text-align: center;
+    width: 20px;
+    height: 50px;
+    border: 2px solid rgba(fff, 0, 0, 5);
+    font-size: 30px;
+}
+table{
+border: 2px solid black;
+width: 900px;
+height: 900px;
+font-style: italic;
+background-image:url("images/hatter.jpg");
+font-family: Garamond, serif;
+font-size: 20px;
+}
+td{
+    border: 2px solid rgba(fff, 0, 0, 5);
+    width: 200px;
+    height: 180px;
+    text-align: center;
+    border-color: none;
+}
+img{
+    width: 200px;
+    height: 200px;
+    background-position: right;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+tr{
+    border: 2px solid black;
+}
+ol{
+list-style: none;
+
+}
+.face{
+    width: 25px;
+    height: 25px;
+    background-position: center;
+}
+#nev{
+    font-size: 20px;
+}
+.datum{
+    height: 20px;
+    border-color: none;
+}
+.fortnite{
+    height: 100px;
+    width: 120px;
+}
+#date{
+    height: 5px;
+    font-size: 20px;
+}
+#alir{
+    font-family: Brush Script MT,cursive;
+    font-size: 30px;
+}
+
